@@ -1,7 +1,4 @@
-# 👋 Hi, I'm Vardan Verma
-
-
-<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=LewisPour"></p>
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Vardan-Developer"></p>
 
 ## About Me
 - 👀 I’m interested in **C++, Desktop App Development, Web Development**
