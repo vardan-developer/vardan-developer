@@ -1,11 +1,13 @@
 <p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=VardanVerma&txt=Your%20fellow%20software%20engineer"></p>
+# Welcome to my GitHub Account 
+
 ## About Me
 - 👀 I’m interested in **C++, Desktop App Development, Web Development**
 - 🌱 I’m currently learning **Modern C++ and DBMS**
 - 💬 Ask me about **C++**, **Desktop Apps**, and **Web Technologies**
 - 📫 How to reach me: **vardan.verma.developer@gmail.com**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: *Just like you all, I suffer from multiple incomplete projects and an idea for a brand new project.*
+- ⚡ Fun fact: *Like you all, I suffer from multiple incomplete projects and an idea for a brand new project.*
 
 ## 🛠️ Skills & Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> &nbsp;
