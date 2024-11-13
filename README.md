@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Vardan Verma
 
-![Profile Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile) <!-- Replace with a custom banner image -->
+
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=LewisPour"></p>
 
 ## About Me
 - 👀 I’m interested in **C++, Desktop App Development, Web Development**
